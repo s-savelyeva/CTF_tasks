@@ -36,3 +36,9 @@ print(token)
 Отправляем curl запросом на адрес панели админа (можно через сайт https://reqbin.com/curl):
 
 curl -H "Cookie: token=сгенерированный токен" http://62.173.140.174:16077/admin
+
+
+CODEBY{I&#39;M_G0NN4_H4V3_70_F1R3_7H3_C0D3R}  
+&#39; - это апостроф  
+CODEBY{I'M_G0NN4_H4V3_70_F1R3_7H3_C0D3R}  
+
