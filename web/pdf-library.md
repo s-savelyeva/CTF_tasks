@@ -11,6 +11,7 @@ IP: 62.173.140.174:16081
 curl "http://62.173.140.174:16081/index.php?file=696e6465782e706870"
 
 Видим вот это и понимаем что искать нужно в директории выше
+
 // $txt_files = array_slice(['test.txt', 'flag_for_hackerlab_ctfplayers.txt'], 0, 2); // Moved to upper directory
 
 Кодируем нужный путь: ../flag_for_hackerlab_ctfplayers.txt в hex
