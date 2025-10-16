@@ -33,6 +33,6 @@ token = generate_token("admin", "admin")
 print(token)
 ```
 
-Отправляем curl запросом на адрес панели админа:
+Отправляем curl запросом на адрес панели админа (можно через сайт https://reqbin.com/curl):
 
 curl -H "Cookie: token=сгенерированный токен" http://62.173.140.174:16077/admin
