@@ -8,3 +8,5 @@ tasks for study ctf
 JWT брут: https://github.com/ticarpi/jwt_tool
 
 Криптография: https://gchq.github.io/CyberChef/
+
+Патчинг для pwn: https://github.com/io12/pwninit
